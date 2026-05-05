@@ -380,7 +380,7 @@ export default function LandingPage() {
             © 2026 Smart Interview AI. Built for aspiring developers. <br />
             Developed by{" "}
             <a
-              href="https://your-portfolio-link.com"
+              href="https://faizankhimani.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
